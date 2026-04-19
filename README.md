@@ -1,50 +1,50 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Atikur Rahman
 
-🚀 **Flutter Developer | Mobile App Engineer | Problem Solver**
+🚀 **Flutter Developer | Mobile App Engineer | Backend Enthusiast**
 
-I build scalable, high-performance cross-platform applications using Flutter. My focus is on clean architecture, smooth user experience, and production-ready solutions.
+I build high-performance, scalable, and user-friendly cross-platform mobile applications using Flutter. I focus on writing clean, maintainable code and delivering production-ready solutions.
 
 ---
 
 ## 🧠 Professional Summary
 
 * 📱 Specialized in **Flutter & Dart**
-* ⚙️ Strong experience with **REST APIs & Backend Integration**
+* ⚙️ Strong experience with **REST API integration**
 * 🏗️ Follow **Clean Architecture & SOLID principles**
-* 🚀 Passionate about **performance optimization & UI/UX**
-* 🔍 Continuously learning and improving
+* 🔗 Backend experience with **.NET Core & PostgreSQL**
+* 🎯 Focused on **performance, scalability & UI/UX**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile Development**
+**📱 Mobile Development**
 
 * Flutter (Dart)
-* State Management: Riverpod, Provider, GetX
+* Riverpod, Provider, GetX
 
-**Backend**
+**🌐 Backend**
 
-* .NET Core (Web API)
+* .NET Core Web API
 * PostgreSQL
 
-**Web**
+**💻 Web**
 
 * HTML5, Bootstrap 5, jQuery
 
-**Tools & Workflow**
+**⚙️ Tools**
 
 * Git & GitHub
 * Firebase
-* CI/CD (GitHub Actions)
+* GitHub Actions (CI/CD)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atikur01&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur01&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -52,11 +52,11 @@ I build scalable, high-performance cross-platform applications using Flutter. My
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=atikur01&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikur01&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -64,36 +64,31 @@ I build scalable, high-performance cross-platform applications using Flutter. My
 ## 🧩 Current Focus
 
 * 🚀 Building production-ready Flutter apps
-* 🏗️ Implementing scalable backend with .NET
-* 📈 Improving app performance & architecture
+* 🏗️ Scalable backend development with .NET Core
+* 📈 Improving performance & app architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name
+### 🔹 Flutter App Projects
 
-* 📌 Description: Short explanation of the project
-* ⚙️ Tech: Flutter, REST API, PostgreSQL
-* ⭐ Key Features:
-
-  * Feature One
-  * Feature Two
-* 🔗 Repo: https://github.com/YOUR_USERNAME/project
+* 📱 Cross-platform mobile applications
+* ⚙️ Clean architecture & API integration
+* 🔗 https://github.com/atikur01
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Highlights
 
-* ✔️ Built multiple cross-platform apps
-* ✔️ Focus on clean, maintainable code
-* ✔️ Strong debugging & problem-solving skills
+* ✔️ Strong focus on clean and maintainable code
+* ✔️ Experience in full-stack (Mobile + Backend)
+* ✔️ Problem-solving mindset with real-world project experience
 
 ---
 
 ## 📫 Contact
 
-* 🌐 Portfolio: https://yourportfolio.com
 * 💼 LinkedIn: https://linkedin.com/in/yourprofile
 * 📧 Email: [your@email.com](mailto:your@email.com)
 
@@ -101,14 +96,14 @@ I build scalable, high-performance cross-platform applications using Flutter. My
 
 ## 💬 Developer Philosophy
 
-> "Great software is built with clarity, performance, and user-first thinking."
+> "Clean code, smooth performance, and great user experience define great software."
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=atikur01&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-⭐ **If you find my work useful, consider giving a star to my repositories!**
+⭐ **If you like my work, consider giving a star to my repositories!**
