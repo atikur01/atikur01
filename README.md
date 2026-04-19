@@ -21,7 +21,7 @@ I build high-performance, scalable, and user-friendly cross-platform mobile appl
 **📱 Mobile Development**
 
 * Flutter (Dart)
-* Riverpod, Provider, GetX
+* Provider
 
 **🌐 Backend**
 
@@ -89,8 +89,7 @@ I build high-performance, scalable, and user-friendly cross-platform mobile appl
 
 ## 📫 Contact
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn: https://linkedin.com/in/atik01
 
 ---
 
