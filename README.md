@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://portfolio-ceue.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/atik01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://play.google.com/store/apps/developer?id=Atik+Apps+LLC"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" /></a>
+  <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" /></a>
   <a href="mailto:atikvucse@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -130,7 +130,7 @@ Proven track record of building, publishing, and monetizing production applicati
 
 ---
 
-### 📱 [Published Portfolio — 15+ Mobile Applications](https://play.google.com/store/apps/developer?id=Atik+Apps+LLC)
+### 📱 [Published Portfolio — 15+ Mobile Applications](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
 > **Active developer portfolio containing 15+ production mobile applications on Google Play Store.**
 
 * **Domain:** Cross-Platform Production Applications
@@ -138,7 +138,7 @@ Proven track record of building, publishing, and monetizing production applicati
   * Built, launched, and actively maintaining **15+ production applications** serving global users on Google Play.
   * Utilized agentic engineering workflows (**Claude Code**) for rapid architecture design, implementation, and automated release cycles.
 * **Tech Stack:** `Flutter` `Dart` `Google Play Console` `Codemagic CI/CD` `Claude Code`
-* **Links:** [Play Store Developer Profile ↗](https://play.google.com/store/apps/developer?id=Atik+Apps+LLC)
+* **Links:** [Play Store Developer Profile ↗](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
 
 ---
 
@@ -187,7 +187,7 @@ I'm actively open to **remote software engineering roles (Flutter / Backend)**, 
 
 * 🌐 **Portfolio Website:** [portfolio-ceue.onrender.com](https://portfolio-ceue.onrender.com/)
 * 💼 **LinkedIn:** [linkedin.com/in/atik01](https://linkedin.com/in/atik01)
-* 📱 **Google Play Developer:** [Atik Apps LLC](https://play.google.com/store/apps/developer?id=Atik+Apps+LLC)
+* 📱 **Google Play Developer:** [Atik Apps LLC](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
 * ✉️ **ProtonMail:** [atikvucse@protonmail.com](mailto:atikvucse@protonmail.com)
 
 <div align="center">
