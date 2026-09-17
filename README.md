@@ -109,23 +109,10 @@ I'm actively open to **remote software engineering roles (Flutter / Backend)**, 
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 📊 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=atikur01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikur01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikur01&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
 
 <div align="center">
