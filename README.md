@@ -97,8 +97,7 @@ I'm actively open to **remote software engineering roles (Flutter / Backend)**, 
 
 * 🌐 **Portfolio Website:** [portfolio-ceue.onrender.com](https://portfolio-ceue.onrender.com/)
 * 💼 **LinkedIn:** [linkedin.com/in/atik01](https://linkedin.com/in/atik01)
-* 📱 **Google Play Developer:** [Atik Apps LLC](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
-* ✉️ **ProtonMail:** [atikvucse@protonmail.com](mailto:atikvucse@protonmail.com)
+* ✉️ **Email:** [atikvucse@protonmail.com](mailto:atikvucse@protonmail.com)
 
 ---
 
