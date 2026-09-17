@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Md. Atikur Rahman 👋
+# Hi there, I'm Md. Atikur Rahman
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Flutter+%26+Mobile+Application+Developer;ASP.NET+Core+Backend+Engineer;Feature-First+Architecture+Specialist;15%2B+Production+Apps+Published+on+Google+Play;1%2C000%2B+Users+%7C+%24200%2B+MRR+Solo+Commercial+App" alt="Typing SVG" />
