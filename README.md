@@ -30,18 +30,6 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 ---
 
-## ⚡ Highlights & Key Metrics
-
-| Metric | Detail |
-| :--- | :--- |
-| 📱 **Production Apps** | **15+ Applications** live on the Google Play Store |
-| 👥 **Active User Base** | **1,000+ Users** on solo commercial flagship app |
-| 💰 **Commercial Impact** | **\$200+ MRR** generated via Google Play In-App Billing |
-| 🏛️ **Architecture** | Feature-First Architecture, SOLID Principles, Clean Maintainable Code |
-| 🎓 **Academic Excellence**| **3.84 / 4.00 CGPA** in B.Sc. Computer Science & Engineering |
-
----
-
 ## 🛠️ Technical Skills
 
 ### 📱 Mobile Development
