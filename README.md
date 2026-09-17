@@ -104,7 +104,7 @@ I'm actively open to **remote software engineering roles (Flutter / Backend)**, 
 ## 🎓 Education
 
 ### **Bachelor of Science in Computer Science and Engineering**
-*Varendra University — Rajshahi, Bangladesh | Graduated August 2024*
+*Varendra University — Rajshahi, Bangladesh*
 * **CGPA:** **3.84 / 4.00**
 
 ---
