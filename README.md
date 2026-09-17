@@ -25,15 +25,8 @@
 
 ## 📌 About Me
 
-Software Developer specializing in **Flutter cross-platform mobile development** and **ASP.NET Core backend engineering**. Passionate about architecting scalable systems using **Feature-First Architecture**, strict **SOLID principles**, and clean code paradigms.
-
-Proven track record of building, publishing, and monetizing production applications—from solo commercial apps generating recurring revenue to architecting enterprise e-commerce solutions.
-
-- 🚀 **15+ mobile applications** published and actively maintained on Google Play Store.
-- 💡 Built a solo commercial Flutter application with **1,000+ users** and **\$200+ MRR**.
-- 🏗️ Strong advocate of **Feature-First Architecture**, separation of concerns, and robust state management with **Provider**.
-- 🌐 Experienced in building and integrating secure **RESTful Web APIs**, token-based JWT authentication, and relational databases (**PostgreSQL**, **SQL Server**).
-- 🎓 **B.Sc. in Computer Science and Engineering** from Varendra University (**CGPA: 3.84 / 4.00**).
+Software Developer specializing in **Flutter** mobile development and **ASP.NET Core** backend engineering with a focus on **Feature-First Architecture** and clean code.
+Proven track record of publishing **15+ production apps** on Google Play, including a solo commercial app with **1,000+ users** and **$200+ MRR**.
 
 ---
 
