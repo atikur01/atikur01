@@ -140,23 +140,4 @@ I'm actively open to **remote software engineering roles (Flutter / Backend)**, 
 * 💼 **LinkedIn:** [linkedin.com/in/atik01](https://linkedin.com/in/atik01)
 * ✉️ **Email:** [atikvucse@protonmail.com](mailto:atikvucse@protonmail.com)
 
----
 
-## 🎓 Education
-
-### **Bachelor of Science in Computer Science and Engineering**
-*Varendra University — Rajshahi, Bangladesh*
-* **CGPA:** **3.84 / 4.00**
-
----
-
-## 📊 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=atikur01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <br/>
-  ⭐ <i>Feel free to explore my repositories and drop a star if you find my work inspiring!</i>
-</div>
