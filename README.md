@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://atikur.me/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/atik01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" /></a>
+  <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc"><img src="https://img.shields.io/badge/Google_Play_Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Profile" /></a>
   <a href="mailto:atikvucse@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
