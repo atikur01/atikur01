@@ -82,7 +82,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 ## 🚀 Featured Projects
 
-### 📈 [Chart AI — Trading Chart Analysis App](https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis)
+### 📈 <a href="https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis" target="_blank">Chart AI — Trading Chart Analysis App</a>
 > **Solo commercial Flutter mobile application with 1,000+ active users and $200+ MRR.**
 
 * **Domain:** AI-Powered Financial Tech & Trading
@@ -92,11 +92,11 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
   * Architected application using **Feature-First Architecture** and **Provider** for maintainable, modular codebase.
   * Managed full lifecycle releases on **Google Play Console**.
 * **Tech Stack:** `Flutter` `Dart` `ASP.NET Core` `C#` `REST API` `Google Play Billing` `Provider` `Feature-First Architecture`
-* **Links:** [Live on Play Store ↗](https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis)
+* **Links:** <a href="https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis" target="_blank">Live on Play Store ↗</a>
 
 ---
 
-### 🛍️ [CraftyBay — E-Commerce Mobile Application](https://github.com/atikur01/craftybay-ecommerce-app)
+### 🛍️ <a href="https://github.com/atikur01/craftybay-ecommerce-app" target="_blank">CraftyBay — E-Commerce Mobile Application</a>
 > **Scalable, full-featured e-commerce application built with clean architecture and token authentication.**
 
 * **Domain:** E-Commerce Mobile Solution
@@ -106,11 +106,11 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
   * Conformed strictly to **Material Design 3** design guidelines with custom responsive UI components.
   * Applied **Feature-First Architecture** decoupling data sources, repositories, and presentation state for enterprise maintainability.
 * **Tech Stack:** `Flutter` `Dart` `REST API` `JWT Authentication` `Material 3` `Feature-First Architecture`
-* **Links:** [GitHub Repository ↗](https://github.com/atikur01/craftybay-ecommerce-app)
+* **Links:** <a href="https://github.com/atikur01/craftybay-ecommerce-app" target="_blank">GitHub Repository ↗</a>
 
 ---
 
-### 📱 [Published Portfolio — 15+ Mobile Applications](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
+### 📱 <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc" target="_blank">Published Portfolio — 15+ Mobile Applications</a>
 > **Active developer portfolio containing 15+ production mobile applications on Google Play Store.**
 
 * **Domain:** Cross-Platform Production Applications
@@ -118,7 +118,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
   * Built, launched, and actively maintaining **15+ production applications** serving global users on Google Play.
   * Utilized agentic engineering workflows (**Claude Code**) for rapid architecture design, implementation, and automated release cycles.
 * **Tech Stack:** `Flutter` `Dart` `Google Play Console` `Codemagic CI/CD` `Claude Code`
-* **Links:** [Play Store Developer Profile ↗](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
+* **Links:** <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc" target="_blank">Play Store Developer Profile ↗</a>
 
 ---
 
