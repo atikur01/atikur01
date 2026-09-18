@@ -2,15 +2,15 @@
 
 # Hi there, I'm Md. Atikur Rahman
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://readme-typing-svg.demolab.com" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Flutter+%26+Mobile+Application+Developer;ASP.NET+Core+Backend+Developer;Feature-First+Architecture+Specialist;15%2B+Production+Apps+Published+on+Google+Play;1%2C000%2B+Users+%7C+%24200%2B+MRR+Solo+Commercial+App" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://atikur.me/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/atik01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc"><img src="https://img.shields.io/badge/Google_Play_Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Profile" /></a>
-  <a href="mailto:atikvucse@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://atikur.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/atik01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Profile" /></a>
+  <a href="mailto:atikvucse@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 ## 💼 Professional Experience
 
-### **Software Development Trainee** | [Itransition Group](https://www.linkedin.com/company/itransition)
+### **Software Development Trainee** | <a href="https://www.linkedin.com/company/itransition" target="_blank">Itransition Group</a>
 *Remote | April 2025 – July 2025*
 * Engineered and maintained backend services and RESTful APIs utilizing PHP and the Symfony framework.
 * Designed and optimized relational database schemas and complex queries across MySQL and PostgreSQL.
@@ -136,8 +136,8 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 I'm actively open to **remote software engineering roles (Flutter / Backend)**, freelance contracts, and innovative collaborations:
 
-* 🌐 **Portfolio Website:** [atikur.me](https://atikur.me/)
-* 💼 **LinkedIn:** [linkedin.com/in/atik01](https://linkedin.com/in/atik01)
-* ✉️ **Email:** [atikvucse@protonmail.com](mailto:atikvucse@protonmail.com)
+* 🌐 **Portfolio Website:** <a href="https://atikur.me/" target="_blank">atikur.me</a>
+* 💼 **LinkedIn:** <a href="https://linkedin.com/in/atik01" target="_blank">linkedin.com/in/atik01</a>
+* ✉️ **Email:** <a href="mailto:atikvucse@protonmail.com" target="_blank">atikvucse@protonmail.com</a>
 
 
