@@ -88,11 +88,11 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 * **Domain:** AI-Powered Financial Tech & Trading
 * **Key Achievements:**
-  * Engineered AI-driven financial chart analysis evaluating candlestick patterns and delivering real-time technical insights via REST APIs.
+  * Developed backend RESTful APIs using **ASP.NET Core (C#)** to power AI-driven chart analysis, evaluate candlestick patterns, and deliver real-time technical insights.
   * Integrated **Google Play Billing** for recurring subscription revenue, scaling to **$200+ Monthly Recurring Revenue (MRR)**.
   * Architected application using **Feature-First Architecture** and **Provider** for maintainable, modular codebase.
   * Managed full lifecycle releases on **Google Play Console**.
-* **Tech Stack:** `Flutter` `Dart` `REST API` `Google Play Billing` `Provider` `Feature-First Architecture`
+* **Tech Stack:** `Flutter` `Dart` `ASP.NET Core` `C#` `REST API` `Google Play Billing` `Provider` `Feature-First Architecture`
 * **Links:** [Live on Play Store ↗](https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis)
 
 ---
