@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles-22C55E?style=flat-square&logo=remote&logoColor=white" alt="Available for Remote Roles" />
   <img src="https://img.shields.io/badge/Location-Rajshahi%2C_Bangladesh-0284C7?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=atikur01&label=Profile%20Views&color=02569B&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
