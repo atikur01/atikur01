@@ -81,6 +81,48 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 
 ---
 
+## 🚀 Featured Projects
+
+### 📈 [Chart AI — Trading Chart Analysis App](https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis)
+> **Solo commercial Flutter mobile application with 1,000+ active users and $200+ MRR.**
+
+* **Domain:** AI-Powered Financial Tech & Trading
+* **Key Achievements:**
+  * Engineered AI-driven financial chart analysis evaluating candlestick patterns and delivering real-time technical insights via REST APIs.
+  * Integrated **Google Play Billing** for recurring subscription revenue, scaling to **$200+ Monthly Recurring Revenue (MRR)**.
+  * Architected application using **Feature-First Architecture** and **Provider** for maintainable, modular codebase.
+  * Managed full lifecycle releases on **Google Play Console**.
+* **Tech Stack:** `Flutter` `Dart` `REST API` `Google Play Billing` `Provider` `Feature-First Architecture`
+* **Links:** [Live on Play Store ↗](https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis)
+
+---
+
+### 🛍️ [CraftyBay — E-Commerce Mobile Application](https://github.com/atikur01/craftybay-ecommerce-app)
+> **Scalable, full-featured e-commerce application built with clean architecture and token authentication.**
+
+* **Domain:** E-Commerce Mobile Solution
+* **Key Achievements:**
+  * Developed modular e-commerce workflows: dynamic product catalogs, multi-level category filtering, cart, and checkout pipelines.
+  * Implemented secure token-based **JWT authentication** with resilient RESTful API integration.
+  * Conformed strictly to **Material Design 3** design guidelines with custom responsive UI components.
+  * Applied **Feature-First Architecture** decoupling data sources, repositories, and presentation state for enterprise maintainability.
+* **Tech Stack:** `Flutter` `Dart` `REST API` `JWT Authentication` `Material 3` `Feature-First Architecture`
+* **Links:** [GitHub Repository ↗](https://github.com/atikur01/craftybay-ecommerce-app)
+
+---
+
+### 📱 [Published Portfolio — 15+ Mobile Applications](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
+> **Active developer portfolio containing 15+ production mobile applications on Google Play Store.**
+
+* **Domain:** Cross-Platform Production Applications
+* **Key Achievements:**
+  * Built, launched, and actively maintaining **15+ production applications** serving global users on Google Play.
+  * Utilized agentic engineering workflows (**Claude Code**) for rapid architecture design, implementation, and automated release cycles.
+* **Tech Stack:** `Flutter` `Dart` `Google Play Console` `Codemagic CI/CD` `Claude Code`
+* **Links:** [Play Store Developer Profile ↗](https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc)
+
+---
+
 ## 💼 Professional Experience
 
 ### **Software Development Trainee** | [Itransition Group](https://www.linkedin.com/company/itransition)
