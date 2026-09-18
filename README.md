@@ -32,6 +32,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
   <img src="https://img.shields.io/badge/Provider-2563EB?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
   <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material 3" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white" alt="Google AdMob" />
   <img src="https://img.shields.io/badge/Responsive_UI-0284C7?style=for-the-badge&logo=flutter&logoColor=white" alt="Responsive UI" />
 </p>
 
@@ -82,10 +83,10 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 * **Domain:** AI-Powered Financial Tech & Trading
 * **Key Achievements:**
   * Developed backend RESTful APIs using **ASP.NET Core (C#)** to power AI-driven chart analysis, evaluate candlestick patterns, and deliver real-time technical insights.
-  * Integrated **Google Play Billing** for recurring subscription revenue, scaling to **$200+ Monthly Recurring Revenue (MRR)**.
+  * Integrated **Google Play Billing** and **Google AdMob** for recurring subscription revenue and ad monetization, scaling to **$200+ Monthly Recurring Revenue (MRR)**.
   * Architected application using **Feature-First Architecture** and **Provider** for maintainable, modular codebase.
   * Managed full lifecycle releases on **Google Play Console**.
-* **Tech Stack:** `Flutter` `Dart` `ASP.NET Core` `C#` `REST API` `Google Play Billing` `Provider` `Feature-First Architecture`
+* **Tech Stack:** `Flutter` `Dart` `ASP.NET Core` `C#` `REST API` `Google Play Billing` `Google AdMob` `Provider` `Feature-First Architecture`
 * **Links:** <a href="https://play.google.com/store/apps/details?id=com.chartai.tradinganalysis" target="_blank">Live on Play Store ↗</a>
 
 ---
