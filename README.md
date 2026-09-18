@@ -12,12 +12,6 @@
   <a href="https://play.google.com/store/apps/collection/cluster?gsr=SmdqLGlrN0ZjWnQ3cnFnRTJFWUt1MkNqeXVnYTNEZFFXQmsrM0hobTd1cGtLM009sgIzChYKEmNvbS5hcHBzLm5vdGVzX3BybxAHEhcIARITODQ2MDQyNzk4NTY1MTI0ODYyMRgAsBIA:S:ANO1ljLVOGc" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Profile" /></a>
   <a href="mailto:atikvucse@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles-22C55E?style=flat-square&logo=remote&logoColor=white" alt="Available for Remote Roles" />
-  <img src="https://img.shields.io/badge/Location-Rajshahi%2C_Bangladesh-0284C7?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
 </div>
 
 ---
