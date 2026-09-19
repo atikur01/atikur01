@@ -121,7 +121,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 ### **Software Development Trainee** | <a href="https://www.linkedin.com/company/itransition" target="_blank">Itransition Group</a>
 *Remote | April 2025 – July 2025*
 * Engineered and maintained backend services and RESTful APIs utilizing PHP and the Symfony framework.
-* Designed and optimized relational database schemas and complex queries across MySQL and PostgreSQL.
+* Designed and optimized relational database schemas and complex queries using PostgreSQL.
 * Collaborated with senior engineers using Git and GitHub for version control, code reviews, and structured feature rollouts.
 
 ---
