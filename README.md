@@ -42,7 +42,6 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/RESTful_Web_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ### 🗄️ Databases & Local Storage
@@ -65,6 +64,7 @@ Proven track record of publishing **15+ production apps** on Google Play, includ
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console" />
   <img src="https://img.shields.io/badge/Codemagic_CI%2FCD-F55423?style=for-the-badge&logo=codemagic&logoColor=white" alt="Codemagic" />
