@@ -18,7 +18,7 @@
 ## 📌 About Me
 
 Software Developer specializing in **Flutter** mobile development and **ASP.NET Core** backend engineering with a focus on **Feature-First Architecture** and clean code.
-Proven track record of publishing **15+ production apps** on Google Play, including a solo commercial app with **1,000+ users** and **$200+ MRR**.
+Proven track record of publishing **15+ production apps** on Google Play, including a solo commercial app with **5,000+ users** and **$300+ MRR**.
 
 ---
 
