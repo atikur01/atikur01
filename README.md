@@ -19,13 +19,3 @@ I'm a Software Developer focused on building clean, scalable, and high-performan
 *Apr 2025 – Jul 2025 · Remote*
 
 Worked on backend services and REST APIs using PHP/Symfony, PostgreSQL database design, and collaborative development with Git/GitHub.
-
-### 🎓 Education
-
-**B.Sc. in Computer Science and Engineering**  
-Varendra University 
-
-### 📫 Contact
-
-- 📧 **Email:** atikvucse@protonmail.com
-- 📍 **Location:** Rajshahi, Bangladesh
